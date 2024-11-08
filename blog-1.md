@@ -2,6 +2,8 @@
 
 ## Union Type in TypeScript
 To express union type use (|). union type variable contain multiple types but it allow to use one type.
+
+## Example
 ```bash 
 const var: string | number;
 var = "next level" // it is hold string type data
