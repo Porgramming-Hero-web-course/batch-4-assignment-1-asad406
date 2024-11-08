@@ -24,7 +24,7 @@ type MasErMatha = {
     masType = string;
 }
 
-type MuriGhonto = Dal \& MasErMatha; // it is hold both type data 
+type MuriGhonto = Dal & MasErMatha; // it is hold both type data 
 
 const muriGhonto : MuriGhonto = {
     dalType: "Musur dal"
